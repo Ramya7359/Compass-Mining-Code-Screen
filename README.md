@@ -153,7 +153,7 @@ EOF
 echo "✅ Setup complete!"
 ```
 
-✅ Don’t forget:
+To run the script:
 ```bash
 chmod +x setup.sh
 ```
